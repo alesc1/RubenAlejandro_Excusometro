@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: lawngreen;
+}
+
+p {
+    color: salmon;
+}
+
+header {
+    padding: 40px;
+    text-align: center;
+}
+
+main {
+    padding: 30px;
+}
