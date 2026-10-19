@@ -2,9 +2,9 @@
 
 body {
     margin: 0;
-    background-color:rgb(225, 225, 225);
+    background-color:rgb(132, 125, 125);
     font-family: 'Montserrat Alternates', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(167, 66, 255);
+    color: rgb(185, 131, 232);
 
 }
 
@@ -19,14 +19,14 @@ h2 {
 
 p {
     line-height: 1.5;
-    color: rgb(254, 254, 254);
+    color: rgb(121, 114, 114);
 }
 
 header {
     padding: 40px;
     text-align: center;
     color: rgb(151, 83, 241);
-    background-color:rgb(78, 77, 77)
+    background-color:rgb(133, 123, 123)
 }
 
 main {
@@ -34,7 +34,7 @@ main {
 }
 
 .como {
-    background-color: rgb(109, 40, 86);
+    background-color: rgb(176, 108, 153);
     padding: 20px;
     border-radius: 5px;
 }
@@ -42,6 +42,6 @@ main {
 section {
     margin-bottom: 20px;
     padding: 20px;
-    background-color: rgb(70, 69, 69);
+    background-color: #ffffff;
     border-radius: 5px;
 }
